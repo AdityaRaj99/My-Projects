@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.main{
+  background-color:rgb(205, 150, 67);
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.btn{
+  display: flex;
+  justify-content:end;
+  padding: 10px;
+}
